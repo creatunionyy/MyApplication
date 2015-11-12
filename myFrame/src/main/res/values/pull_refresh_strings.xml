@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="pull_refresh">下拉刷新</string>
+    <string name="pull_refresh_refreshing">正在刷新数据…</string>
+    <string name="pull_refresh_last_update">最后更新:</string>
+    <string name="pull_refresh_release_refresh">该放手了,我要刷新了</string>
+    <string name="bottom_load_loading">拼命加载中…</string>
+    <string name="bottom_load_loadmore">加载更多</string>
+    <string name="bottom_load_nomore">啊哦,加载完了!</string>
+    <string name="bottom_load_fail">加载失败</string>
+
+
+</resources>

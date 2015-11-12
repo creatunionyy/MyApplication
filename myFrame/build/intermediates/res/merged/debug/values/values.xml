@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/vpi__attrs.xml -->
+    <eat-comment/>
+    <attr format="boolean" name="centered"/>
+    <attr format="color" name="selectedColor"/>
+    <attr format="dimension" name="strokeWidth"/>
+    <attr format="color" name="unselectedColor"/>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/vpi__defaults.xml -->
+    <eat-comment/>
+    <bool name="default_circle_indicator_centered">true</bool>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <bool name="default_line_indicator_centered">true</bool>
+    <bool name="default_title_indicator_selected_bold">true</bool>
+    <bool name="default_underline_indicator_fades">true</bool>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/zxing_color.xml -->
+    <eat-comment/>
+    <color name="bg_color">#EDEDED</color>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="black">#000000</color>
+    <color name="black_common">#ff434343</color>
+    <color name="blue_light">#ff6699cc</color>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/zxing_color.xml -->
+    <eat-comment/>
+    <color name="contents_text">#ff000000</color>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/vpi__defaults.xml -->
+    <eat-comment/>
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <color name="default_line_indicator_selected_color">#FF33B5E5</color>
+    <color name="default_line_indicator_unselected_color">#FFBBBBBB</color>
+    <color name="default_title_indicator_footer_color">#FF33B5E5</color>
+    <color name="default_title_indicator_selected_color">#FFFFFFFF</color>
+    <color name="default_title_indicator_text_color">#BBFFFFFF</color>
+    <color name="default_underline_indicator_selected_color">#FF33B5E5</color>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/zxing_color.xml -->
+    <eat-comment/>
+    <color name="encode_view">#ffffffff</color>
+    <color name="grgray">#686868</color>
+    <color name="header">#58567D</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="transparent">#00000000</color>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/zxing_color.xml -->
+    <eat-comment/>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/vpi_color.xml -->
+    <eat-comment/>
+    <color name="vpi__background_holo_dark">#ff000000</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
+    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
+    <color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color>
+    <color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable>
+    <declare-styleable name="RoundAngleImageView"><attr format="dimension" name="roundWidth"/><attr format="dimension" name="roundHeight"/></declare-styleable>
+    <declare-styleable name="SlidingMenu"><attr name="mode"><enum name="left" value="0"/><enum name="right" value="1"/></attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr name="touchModeBehind"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="fadeEnabled"/><attr format="float" name="fadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable>
+    <declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle"><enum name="none" value="0"/><enum name="triangle" value="1"/><enum name="underline" value="2"/></attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition"><enum name="bottom" value="0"/><enum name="top" value="1"/></attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="common_font_size_large">18.0sp</dimen>
+    <dimen name="common_font_size_largest_plus">23.0sp</dimen>
+    <dimen name="common_font_size_middle">16.0sp</dimen>
+    <dimen name="common_msg_sign_marginbottom">18.0dip</dimen>
+    <dimen name="common_msg_sign_marginleft">16.0dip</dimen>
+    <dimen name="common_view_large_margin">15.0dip</dimen>
+    <dimen name="common_view_largest_margin">20.0dip</dimen>
+    <dimen name="common_view_middle_margin">10.0dip</dimen>
+    <dimen name="common_view_small_larger_margin">7.0dip</dimen>
+    <dimen name="common_view_small_larger_padding">8.0dip</dimen>
+    <dimen name="common_view_small_margin">5.0dip</dimen>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/vpi__defaults.xml -->
+    <eat-comment/>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+    <dimen name="default_line_indicator_gap_width">4dp</dimen>
+    <dimen name="default_line_indicator_line_width">12dp</dimen>
+    <dimen name="default_line_indicator_stroke_width">1dp</dimen>
+    <dimen name="default_title_indicator_clip_padding">4dp</dimen>
+    <dimen name="default_title_indicator_footer_indicator_height">4dp</dimen>
+    <dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen>
+    <dimen name="default_title_indicator_footer_line_height">2dp</dimen>
+    <dimen name="default_title_indicator_footer_padding">7dp</dimen>
+    <dimen name="default_title_indicator_text_size">15dp</dimen>
+    <dimen name="default_title_indicator_title_padding">5dp</dimen>
+    <dimen name="default_title_indicator_top_padding">7dp</dimen>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="topbar_navigation_back_layout_width">60.0dip</dimen>
+    <dimen name="topbar_navigation_height">50.0dip</dimen>
+    <dimen name="topbar_navigation_height_asset">36.0dip</dimen>
+    <dimen name="topbar_navigation_left_option_margin_left">3.0dip</dimen>
+    <dimen name="topbar_navigation_menu_layout_width">70.0dip</dimen>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/zxing_ids.xml -->
+    <eat-comment/>
+    <item name="auto_focus" type="id"/>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/pull_to_refresh_ids.xml -->
+    <eat-comment/>
+    <item name="btn_back_id" type="id"/>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/zxing_ids.xml -->
+    <eat-comment/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/pull_to_refresh_ids.xml -->
+    <eat-comment/>
+    <item name="gridview" type="id"/>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/zxing_ids.xml -->
+    <eat-comment/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/pull_to_refresh_ids.xml -->
+    <eat-comment/>
+    <item name="scrollview" type="id"/>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/zxing_ids.xml -->
+    <eat-comment/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/pull_to_refresh_ids.xml -->
+    <eat-comment/>
+    <item name="selected_view" type="id"/>
+    <item name="webview" type="id"/>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/vpi__defaults.xml -->
+    <eat-comment/>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <integer name="default_title_indicator_footer_indicator_style">2</integer>
+    <integer name="default_title_indicator_line_position">0</integer>
+    <integer name="default_underline_indicator_fade_delay">300</integer>
+    <integer name="default_underline_indicator_fade_length">400</integer>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">MyFrame</string>
+    <string name="avatar">头像</string>
+    <string name="back">返回</string>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/pull_refresh_strings.xml -->
+    <eat-comment/>
+    <string name="bottom_load_fail">加载失败</string>
+    <string name="bottom_load_loading">拼命加载中…</string>
+    <string name="bottom_load_loadmore">加载更多</string>
+    <string name="bottom_load_nomore">啊哦,加载完了!</string>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="cameras">相机</string>
+    <string name="cancel">取消</string>
+    <string name="choose_date">选择日期</string>
+    <string name="choose_from_albums">从相册选择</string>
+    <string name="choose_record">选择录音</string>
+    <string name="choose_time">选择时间</string>
+    <string name="choose_yinpin">选择音频</string>
+    <string name="complete">完成</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="file">文件</string>
+    <string name="file_size">文件大小</string>
+    <string name="isloading">正在加载</string>
+    <string name="logining">正在登录…</string>
+    <string name="more">更多</string>
+    <string name="network_is_notavailable">网络不可用</string>
+    <string name="no_search_result">没有搜索到结果</string>
+    <string name="ok">确定</string>
+    <string name="photo">照片</string>
+    <string name="photograph">拍照</string>
+    <string name="picture">图片</string>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/pull_refresh_strings.xml -->
+    <eat-comment/>
+    <string name="pull_refresh">下拉刷新</string>
+    <string name="pull_refresh_last_update">最后更新:</string>
+    <string name="pull_refresh_refreshing">正在刷新数据…</string>
+    <string name="pull_refresh_release_refresh">该放手了,我要刷新了</string>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="receive">接收</string>
+    <string name="refresh">刷新</string>
+    <string name="retry">重试</string>
+    <string name="save">保存</string>
+    <string name="save_fail">保存失败</string>
+    <string name="save_success">保存成功</string>
+    <string name="search">搜索</string>
+    <string name="send">发送</string>
+    <string name="sending">发送中</string>
+    <string name="setup">设置</string>
+    <string name="sure">确认</string>
+    <string name="today">今日</string>
+    <string name="video">视频</string>
+    <string name="voice">语音</string>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CustomTabPageIndicator" parent="Widget.TabPageIndicator">
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:fadingEdge">horizontal</item>
+        <item name="android:fadingEdgeLength">8.0dip</item>
+        <item name="android:width">0dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="CustomTabPageIndicator.Text" parent="android:TextAppearance.Medium">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">@drawable/selector_tabtext</item>
+    </style>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/progress_dialog_style.xml -->
+    <eat-comment/>
+    <style name="ProgressBar_fund_dialog" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">8dip</item>
+        <item name="android:minHeight">5dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/progressbar_fund</item>
+    </style>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="StyledIndicators" parent="@android:style/Theme.Light">
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+    </style>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/vpi__styles.xml -->
+    <eat-comment/>
+    <style name="TextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/vpi__dark_theme</item>
+    </style>
+    <style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style>
+    <style name="Widget">
+    </style>
+    <style name="Widget.IconPageIndicator" parent="Widget">
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+    </style>
+    <style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/vpi__tab_indicator</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <!-- 设置浮动窗口 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 设置无边框 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 设置无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 设置完全透明 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 设置屏幕变暗 -->
+    </style>
+    <style name="loading_dialog_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 设置屏幕变暗 -->
+    </style>
+    <style name="popwindow_style" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/head_in</item>
+        <item name="@android:windowExitAnimation">@anim/head_out</item>
+    </style>
+</resources>

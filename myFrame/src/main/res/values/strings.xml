@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyFrame</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="back">返回</string>
+    <string name="sure">确认</string>
+    <string name="save_success">保存成功</string>
+    <string name="save_fail">保存失败</string>
+    <string name="retry">重试</string>
+    <string name="more">更多</string>
+    <string name="search">搜索</string>
+    <string name="delete">删除</string>
+    <string name="refresh">刷新</string>
+    <string name="save">保存</string>
+    <string name="edit">编辑</string>
+    <string name="complete">完成</string>
+    <string name="send">发送</string>
+    <string name="today">今日</string>
+    <string name="logining">正在登录…</string>
+    <string name="photo">照片</string>
+    <string name="video">视频</string>
+    <string name="file">文件</string>
+    <string name="photograph">拍照</string>
+    <string name="voice">语音</string>
+    <string name="picture">图片</string>
+    <string name="choose_from_albums">从相册选择</string>
+    <string name="cameras">相机</string>
+    <string name="sending">发送中</string>
+    <string name="file_size">文件大小</string>
+    <string name="receive">接收</string>
+    <string name="setup">设置</string>
+    <string name="avatar">头像</string>
+    <string name="network_is_notavailable">网络不可用</string>
+    <string name="choose_time">选择时间</string>
+    <string name="choose_date">选择日期</string>
+    <string name="choose_record">选择录音</string>
+    <string name="choose_yinpin">选择音频</string>
+    <string name="isloading">正在加载</string>
+    <string name="no_search_result">没有搜索到结果</string>
+
+</resources>

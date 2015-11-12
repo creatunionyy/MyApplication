@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:2:1-73:12
+	xmlns:android
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml
+		INJECTED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml
+		INJECTED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml
+		INJECTED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml
+		INJECTED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:24:5-84
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:24:22-81
+uses-permission#android.permission.CAMERA
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:28:5-65
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:28:22-62
+uses-feature#android.hardware.camera
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:30:5-60
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:30:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:31:5-70
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:31:19-67
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:34:5-71
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:34:22-68
+uses-permission#android.permission.VIBRATE
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:36:5-66
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:36:22-63
+application
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:38:5-71:19
+	android:allowBackup
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:40:9-35
+	android:icon
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:41:9-45
+	android:theme
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:42:9-40
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:39:9-57
+activity#com.creatunion.activity.MainActivity
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:43:9-49:20
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:43:19-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:47:27-74
+activity#com.library.core.demo.ViewPagerActivityDemo
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:50:9-54:20
+	android:theme
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:52:13-52
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:51:13-71
+activity#com.creatunion.activity.PhotoDetailActivity
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:55:9-80
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:55:19-77
+activity#com.library.core.demo.PullToRefreshActivityDemo
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:56:9-58:20
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:56:19-81
+activity#com.library.core.demo.FragmentTabActivityDemo
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:59:9-61:20
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:59:19-79
+activity#com.creatunion.activity.LoginActivity
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:62:9-83
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:62:19-71
+receiver#com.library.core.receiver.NetworkStateReceiver
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:65:9-70:20
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:65:19-80
+intent-filter#android.gzcpc.conn.CONNECTIVITY_CHANGE+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:66:13-69:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:67:17-79
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:67:25-76
+action#android.gzcpc.conn.CONNECTIVITY_CHANGE
+ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:68:17-81
+	android:name
+		ADDED from F:\studiospace\MyApplication\myFrame\src\main\AndroidManifest.xml:68:25-78

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/topbar_navigation_height"
+        android:background="@color/white"
+        android:gravity="center_vertical" >
+
+        <RelativeLayout
+            android:id="@+id/back"
+            android:layout_width="@dimen/topbar_navigation_back_layout_width"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="@dimen/common_view_middle_margin"
+            android:clickable="true" 
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/back_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:contentDescription="@null"
+                android:src="@drawable/selector_backbtn" />
+
+            <TextView
+                android:id="@+id/tv_left_option"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@id/back_img"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/topbar_navigation_left_option_margin_left"
+                android:layout_toRightOf="@id/back_img"
+                android:gravity="center_vertical"
+                android:includeFontPadding="false"
+                android:text="@string/back"
+                android:textColor="@color/blue_light"
+                android:textSize="@dimen/common_font_size_middle" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="@dimen/topbar_navigation_menu_layout_width"
+            android:layout_marginRight="@dimen/topbar_navigation_menu_layout_width"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:includeFontPadding="false"
+            android:singleLine="true"
+            android:textColor="@color/black_common"
+            android:textSize="@dimen/common_font_size_large" />
+
+        <RelativeLayout
+            android:layout_width="@dimen/topbar_navigation_menu_layout_width"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/common_view_middle_margin"
+            android:gravity="center|right" >
+
+            <ImageView
+                android:id="@+id/iv_right_option"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:contentDescription="@null"
+                android:src="@drawable/icon_back_normal"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/tv_right_option"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:includeFontPadding="false"
+                android:paddingBottom="@dimen/common_view_small_larger_padding"
+                android:paddingTop="@dimen/common_view_small_larger_padding"
+                android:textColor="@color/blue_light"
+                android:textSize="@dimen/common_font_size_middle"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/view_topbar_bottom_line"
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px"
+        android:background="@drawable/repeat_horizontal_line"
+        android:orientation="horizontal" />
+
+</LinearLayout>

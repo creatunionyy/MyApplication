@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--     自定义进度条 -->
+    <style name="ProgressBar_fund_dialog" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">8dip</item>
+        <item name="android:minHeight">5dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/progressbar_fund</item>
+    </style>
+
+
+
+</resources>

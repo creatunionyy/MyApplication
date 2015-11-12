@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <include layout="@layout/common_layout_topbar"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="fragment1"
+        android:id="@+id/textView2" />
+</LinearLayout>
+<!-- From: file:/F:/studiospace/MyApplication/myFrame/src/main/res/layout/fragment_tab1.xml -->

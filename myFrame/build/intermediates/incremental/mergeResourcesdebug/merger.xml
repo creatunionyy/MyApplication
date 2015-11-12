@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\studiospace\MyApplication\myFrame\src\main\res"><file name="anim_circle" path="F:\studiospace\MyApplication\myFrame\src\main\res\anim\anim_circle.xml" qualifiers="" type="anim"/><file name="anim_loading" path="F:\studiospace\MyApplication\myFrame\src\main\res\anim\anim_loading.xml" qualifiers="" type="anim"/><file name="head_in" path="F:\studiospace\MyApplication\myFrame\src\main\res\anim\head_in.xml" qualifiers="" type="anim"/><file name="head_out" path="F:\studiospace\MyApplication\myFrame\src\main\res\anim\head_out.xml" qualifiers="" type="anim"/><file name="slide_in_from_bottom" path="F:\studiospace\MyApplication\myFrame\src\main\res\anim\slide_in_from_bottom.xml" qualifiers="" type="anim"/><file name="slide_in_from_top" path="F:\studiospace\MyApplication\myFrame\src\main\res\anim\slide_in_from_top.xml" qualifiers="" type="anim"/><file name="slide_out_to_bottom" path="F:\studiospace\MyApplication\myFrame\src\main\res\anim\slide_out_to_bottom.xml" qualifiers="" type="anim"/><file name="slide_out_to_top" path="F:\studiospace\MyApplication\myFrame\src\main\res\anim\slide_out_to_top.xml" qualifiers="" type="anim"/><file name="vpi__dark_theme" path="F:\studiospace\MyApplication\myFrame\src\main\res\color\vpi__dark_theme.xml" qualifiers="" type="color"/><file name="bg_loading_dialog_shape" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable\bg_loading_dialog_shape.xml" qualifiers="" type="drawable"/><file name="indicator_bg_bottom" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable\indicator_bg_bottom.xml" qualifiers="" type="drawable"/><file name="indicator_bg_top" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable\indicator_bg_top.xml" qualifiers="" type="drawable"/><file name="loading_dialog_progressbar" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable\loading_dialog_progressbar.xml" qualifiers="" type="drawable"/><file name="progressbar_fund" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable\progressbar_fund.xml" qualifiers="" type="drawable"/><file name="repeat_horizontal_line" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable\repeat_horizontal_line.xml" qualifiers="" type="drawable"/><file name="selector_backbtn" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable\selector_backbtn.xml" qualifiers="" type="drawable"/><file name="selector_tabtext" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable\selector_tabtext.xml" qualifiers="" type="drawable"/><file name="shape_bg_progress_dialog" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable\shape_bg_progress_dialog.xml" qualifiers="" type="drawable"/><file name="tab_indicator" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable\tab_indicator.xml" qualifiers="" type="drawable"/><file name="vpi__tab_indicator" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable\vpi__tab_indicator.xml" qualifiers="" type="drawable"/><file name="wheel_bg" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable\wheel_bg.xml" qualifiers="" type="drawable"/><file name="wheel_val" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable\wheel_val.xml" qualifiers="" type="drawable"/><file name="anim_circle_128_0" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\anim_circle_128_0.png" qualifiers="hdpi-v4" type="drawable"/><file name="anim_circle_128_1" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\anim_circle_128_1.png" qualifiers="hdpi-v4" type="drawable"/><file name="anim_circle_128_10" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\anim_circle_128_10.png" qualifiers="hdpi-v4" type="drawable"/><file name="anim_circle_128_11" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\anim_circle_128_11.png" qualifiers="hdpi-v4" type="drawable"/><file name="anim_circle_128_2" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\anim_circle_128_2.png" qualifiers="hdpi-v4" type="drawable"/><file name="anim_circle_128_3" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\anim_circle_128_3.png" qualifiers="hdpi-v4" type="drawable"/><file name="anim_circle_128_4" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\anim_circle_128_4.png" qualifiers="hdpi-v4" type="drawable"/><file name="anim_circle_128_5" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\anim_circle_128_5.png" qualifiers="hdpi-v4" type="drawable"/><file name="anim_circle_128_6" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\anim_circle_128_6.png" qualifiers="hdpi-v4" type="drawable"/><file name="anim_circle_128_7" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\anim_circle_128_7.png" qualifiers="hdpi-v4" type="drawable"/><file name="anim_circle_128_8" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\anim_circle_128_8.png" qualifiers="hdpi-v4" type="drawable"/><file name="anim_circle_128_9" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\anim_circle_128_9.png" qualifiers="hdpi-v4" type="drawable"/><file name="background_prompt_connection" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\background_prompt_connection.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_ptr_rotate" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\default_ptr_rotate.png" qualifiers="hdpi-v4" type="drawable"/><file name="dialog_ver" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\dialog_ver.png" qualifiers="hdpi-v4" type="drawable"/><file name="emotionstore_progresscancelbtn" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\emotionstore_progresscancelbtn.png" qualifiers="hdpi-v4" type="drawable"/><file name="horizontal_line" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\horizontal_line.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="indicator_arrow" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\indicator_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="loading_01" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\loading_01.png" qualifiers="hdpi-v4" type="drawable"/><file name="loading_02" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\loading_02.png" qualifiers="hdpi-v4" type="drawable"/><file name="loading_03" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\loading_03.png" qualifiers="hdpi-v4" type="drawable"/><file name="loading_04" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\loading_04.png" qualifiers="hdpi-v4" type="drawable"/><file name="loading_05" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\loading_05.png" qualifiers="hdpi-v4" type="drawable"/><file name="loading_06" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\loading_06.png" qualifiers="hdpi-v4" type="drawable"/><file name="loading_07" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\loading_07.png" qualifiers="hdpi-v4" type="drawable"/><file name="loading_bg" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\loading_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="popup_layer_bg" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\popup_layer_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="pull_to_refresh_arrow" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-hdpi\pull_to_refresh_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="dialog_loading" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-xhdpi\dialog_loading.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_back_normal" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-xhdpi\icon_back_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_back_pressed" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-xhdpi\icon_back_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="image_pulltorefresh_gray" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-xhdpi\image_pulltorefresh_gray.png" qualifiers="xhdpi-v4" type="drawable"/><file name="image_pulltorefresh_white" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-xhdpi\image_pulltorefresh_white.png" qualifiers="xhdpi-v4" type="drawable"/><file name="refresh_big_round" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-xhdpi\refresh_big_round.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-xhdpi\vpi__tab_selected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-xhdpi\vpi__tab_selected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-xhdpi\vpi__tab_selected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-xhdpi\vpi__tab_unselected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-xhdpi\vpi__tab_unselected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-xhdpi\vpi__tab_unselected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\studiospace\MyApplication\myFrame\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_fragment_tab_demo" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\activity_fragment_tab_demo.xml" qualifiers="" type="layout"/><file name="activity_login" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_main" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_photodetail" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\activity_photodetail.xml" qualifiers="" type="layout"/><file name="activity_pull_to_refresh_demo" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\activity_pull_to_refresh_demo.xml" qualifiers="" type="layout"/><file name="activity_search" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\activity_search.xml" qualifiers="" type="layout"/><file name="activity_tab" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\activity_tab.xml" qualifiers="" type="layout"/><file name="activity_vp" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\activity_vp.xml" qualifiers="" type="layout"/><file name="base_dialog" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\base_dialog.xml" qualifiers="" type="layout"/><file name="base_fragment_tab" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\base_fragment_tab.xml" qualifiers="" type="layout"/><file name="bg_loading_dialog_shape" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\bg_loading_dialog_shape.xml" qualifiers="" type="layout"/><file name="common_layout_search" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\common_layout_search.xml" qualifiers="" type="layout"/><file name="common_layout_topbar" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\common_layout_topbar.xml" qualifiers="" type="layout"/><file name="common_net_prompt" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\common_net_prompt.xml" qualifiers="" type="layout"/><file name="common_zxing_camera" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\common_zxing_camera.xml" qualifiers="" type="layout"/><file name="dialog_common_progressbar" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\dialog_common_progressbar.xml" qualifiers="" type="layout"/><file name="dialog_loading" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\dialog_loading.xml" qualifiers="" type="layout"/><file name="footer_bottomload" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\footer_bottomload.xml" qualifiers="" type="layout"/><file name="fragment_tab1" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\fragment_tab1.xml" qualifiers="" type="layout"/><file name="fragment_tab2" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\fragment_tab2.xml" qualifiers="" type="layout"/><file name="item_medical_onlin_addimg" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\item_medical_onlin_addimg.xml" qualifiers="" type="layout"/><file name="item__menu_footer" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\item__menu_footer.xml" qualifiers="" type="layout"/><file name="layout_expandable_children" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\layout_expandable_children.xml" qualifiers="" type="layout"/><file name="layout_expendable_parent" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\layout_expendable_parent.xml" qualifiers="" type="layout"/><file name="layout_loading_dialog" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\layout_loading_dialog.xml" qualifiers="" type="layout"/><file name="listview" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\listview.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_horizontal" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\pull_to_refresh_header_horizontal.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_vertical" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\pull_to_refresh_header_vertical.xml" qualifiers="" type="layout"/><file name="refreshview" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\refreshview.xml" qualifiers="" type="layout"/><file name="slidingmenumain" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\slidingmenumain.xml" qualifiers="" type="layout"/><file name="tab_indicator" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\tab_indicator.xml" qualifiers="" type="layout"/><file name="viewpager" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\viewpager.xml" qualifiers="" type="layout"/><file name="view_no_search_result" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\view_no_search_result.xml" qualifiers="" type="layout"/><file name="webview" path="F:\studiospace\MyApplication\myFrame\src\main\res\layout\webview.xml" qualifiers="" type="layout"/><file name="main" path="F:\studiospace\MyApplication\myFrame\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="beep" path="F:\studiospace\MyApplication\myFrame\src\main\res\raw\beep.ogg" qualifiers="" type="raw"/><file name="realm_properties" path="F:\studiospace\MyApplication\myFrame\src\main\res\raw\realm_properties" qualifiers="" type="raw"/><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="RoundAngleImageView">
+		<attr format="dimension" name="roundWidth"/>
+		<attr format="dimension" name="roundHeight"/>
+	</declare-styleable><declare-styleable name="PullToRefresh">
+
+        <!-- A drawable to use as the background of the Refreshable View -->
+        <attr format="reference|color" name="ptrRefreshableViewBackground"/>
+
+        <!-- A drawable to use as the background of the Header and Footer Loading Views -->
+        <attr format="reference|color" name="ptrHeaderBackground"/>
+
+        <!-- Text Color of the Header and Footer Loading Views -->
+        <attr format="reference|color" name="ptrHeaderTextColor"/>
+
+        <!-- Text Color of the Header and Footer Loading Views Sub Header -->
+        <attr format="reference|color" name="ptrHeaderSubTextColor"/>
+
+        <!-- Mode of Pull-to-Refresh that should be used -->
+        <attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            <!-- These last two are depreacted -->
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr>
+
+        <!-- Whether the Indicator overlay(s) should be used -->
+        <attr format="reference|boolean" name="ptrShowIndicator"/>
+
+        <!-- Drawable to use as Loading Indicator. Changes both Header and Footer. -->
+        <attr format="reference" name="ptrDrawable"/>
+
+        <!-- Drawable to use as Loading Indicator in the Header View. Overrides value set in ptrDrawable. -->
+        <attr format="reference" name="ptrDrawableStart"/>
+
+        <!-- Drawable to use as Loading Indicator in the Footer View. Overrides value set in ptrDrawable. -->
+        <attr format="reference" name="ptrDrawableEnd"/>
+
+        <!-- Whether Android's built-in Over Scroll should be utilised for Pull-to-Refresh. -->
+        <attr format="reference|boolean" name="ptrOverScroll"/>
+
+        <!-- Base text color, typeface, size, and style for Header and Footer Loading Views -->
+        <attr format="reference" name="ptrHeaderTextAppearance"/>
+
+        <!-- Base text color, typeface, size, and style for Header and Footer Loading Views Sub Header -->
+        <attr format="reference" name="ptrSubHeaderTextAppearance"/>
+
+        <!-- Style of Animation should be used displayed when pulling. -->
+        <attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr>
+
+        <!-- Whether the user can scroll while the View is Refreshing -->
+        <attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/>
+
+        <!--
+        	Whether PullToRefreshListView has it's extras enabled. This allows the user to be 
+        	able to scroll while refreshing, and behaves better. It acheives this by adding
+        	Header and/or Footer Views to the ListView.
+        -->
+        <attr format="reference|boolean" name="ptrListViewExtrasEnabled"/>
+
+        <!--
+        	Whether the Drawable should be continually rotated as you pull. This only
+        	takes effect when using the 'Rotate' Animation Style.
+        -->
+        <attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/>
+
+        <!-- BELOW HERE ARE DEPRECEATED. DO NOT USE. -->
+        <attr format="reference|color" name="ptrAdapterViewBackground"/>
+        <attr format="reference" name="ptrDrawableTop"/>
+        <attr format="reference" name="ptrDrawableBottom"/>
+    </declare-styleable><declare-styleable name="SlidingMenu">
+        <attr name="mode">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+        <attr format="reference" name="viewAbove"/>
+        <attr format="reference" name="viewBehind"/>
+        <attr format="dimension" name="behindOffset"/>
+        <attr format="dimension" name="behindWidth"/>
+        <attr format="float" name="behindScrollScale"/>
+        <attr name="touchModeAbove">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr>
+        <attr name="touchModeBehind">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr>
+        <attr format="reference" name="shadowDrawable"/>
+        <attr format="dimension" name="shadowWidth"/>
+        <attr format="boolean" name="fadeEnabled"/>
+        <attr format="float" name="fadeDegree"/>
+        <attr format="boolean" name="selectorEnabled"/>
+        <attr format="reference" name="selectorDrawable"/>
+    </declare-styleable></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values\color.xml" qualifiers=""><color name="white">#ffffff</color><color name="black">#000000</color><color name="blue_light">#ff6699cc</color><color name="transparent">#00000000</color><color name="black_common">#ff434343</color></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values\dimens.xml" qualifiers=""><dimen name="common_view_small_margin">5.0dip</dimen><dimen name="topbar_navigation_height">50.0dip</dimen><dimen name="common_view_small_larger_margin">7.0dip</dimen><dimen name="topbar_navigation_back_layout_width">60.0dip</dimen><dimen name="common_view_largest_margin">20.0dip</dimen><dimen name="common_font_size_largest_plus">23.0sp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="topbar_navigation_height_asset">36.0dip</dimen><dimen name="common_view_large_margin">15.0dip</dimen><dimen name="common_view_small_larger_padding">8.0dip</dimen><dimen name="topbar_navigation_left_option_margin_left">3.0dip</dimen><dimen name="common_msg_sign_marginleft">16.0dip</dimen><dimen name="topbar_navigation_menu_layout_width">70.0dip</dimen><dimen name="common_font_size_large">18.0sp</dimen><dimen name="common_font_size_middle">16.0sp</dimen><dimen name="common_msg_sign_marginbottom">18.0dip</dimen><dimen name="common_view_middle_margin">10.0dip</dimen></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values\progress_dialog_style.xml" qualifiers=""><style name="ProgressBar_fund_dialog" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">8dip</item>
+        <item name="android:minHeight">5dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/progressbar_fund</item>
+    </style></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values\pull_refresh_strings.xml" qualifiers=""><string name="pull_refresh_last_update">最后更新:</string><string name="bottom_load_loadmore">加载更多</string><string name="bottom_load_loading">拼命加载中…</string><string name="pull_refresh_release_refresh">该放手了,我要刷新了</string><string name="pull_refresh">下拉刷新</string><string name="bottom_load_fail">加载失败</string><string name="bottom_load_nomore">啊哦,加载完了!</string><string name="pull_refresh_refreshing">正在刷新数据…</string></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values\pull_to_refresh_ids.xml" qualifiers=""><item name="btn_back_id" type="id"/><item name="selected_view" type="id"/><item name="gridview" type="id"/><item name="webview" type="id"/><item name="scrollview" type="id"/></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values\strings.xml" qualifiers=""><string name="send">发送</string><string name="choose_from_albums">从相册选择</string><string name="avatar">头像</string><string name="picture">图片</string><string name="logining">正在登录…</string><string name="save_success">保存成功</string><string name="cancel">取消</string><string name="ok">确定</string><string name="edit">编辑</string><string name="sending">发送中</string><string name="choose_yinpin">选择音频</string><string name="complete">完成</string><string name="search">搜索</string><string name="voice">语音</string><string name="network_is_notavailable">网络不可用</string><string name="photograph">拍照</string><string name="save_fail">保存失败</string><string name="back">返回</string><string name="retry">重试</string><string name="today">今日</string><string name="isloading">正在加载</string><string name="choose_time">选择时间</string><string name="video">视频</string><string name="sure">确认</string><string name="photo">照片</string><string name="choose_date">选择日期</string><string name="file">文件</string><string name="setup">设置</string><string name="file_size">文件大小</string><string name="more">更多</string><string name="save">保存</string><string name="app_name">MyFrame</string><string name="choose_record">选择录音</string><string name="cameras">相机</string><string name="no_search_result">没有搜索到结果</string><string name="receive">接收</string><string name="refresh">刷新</string><string name="delete">删除</string></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values\styles.xml" qualifiers=""><style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <!-- 设置浮动窗口 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 设置无边框 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 设置无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 设置完全透明 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 设置屏幕变暗 -->
+    </style><style name="CustomTabPageIndicator.Text" parent="android:TextAppearance.Medium">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">@drawable/selector_tabtext</item>
+    </style><style name="loading_dialog_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 设置屏幕变暗 -->
+    </style><style name="popwindow_style" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/head_in</item>
+        <item name="@android:windowExitAnimation">@anim/head_out</item>
+    </style><style name="StyledIndicators" parent="@android:style/Theme.Light">
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+    </style><style name="AppBaseTheme">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="CustomTabPageIndicator" parent="Widget.TabPageIndicator">
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:fadingEdge">horizontal</item>
+        <item name="android:fadingEdgeLength">8.0dip</item>
+        <item name="android:width">0dp</item>
+        <item name="android:layout_weight">1</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values\vpi_color.xml" qualifiers=""><color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color><color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color><color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color><color name="vpi__background_holo_light">#fff3f3f3</color><color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color><color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color><color name="vpi__background_holo_dark">#ff000000</color><color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values\vpi__attrs.xml" qualifiers=""><attr format="boolean" name="centered"/><declare-styleable name="CirclePageIndicator">
+        <!-- Whether or not the indicators should be centered. -->
+        <attr name="centered"/>
+        <!-- Color of the filled circle that represents the current page. -->
+        <attr format="color" name="fillColor"/>
+        <!-- Color of the filled circles that represents pages. -->
+        <attr format="color" name="pageColor"/>
+        <!-- Orientation of the indicator. -->
+        <attr name="android:orientation"/>
+        <!-- Radius of the circles. This is also the spacing between circles. -->
+        <attr format="dimension" name="radius"/>
+        <!-- Whether or not the selected indicator snaps to the circles. -->
+        <attr format="boolean" name="snap"/>
+        <!-- Color of the open circles. -->
+        <attr format="color" name="strokeColor"/>
+        <!-- Width of the stroke used to draw the circles. -->
+        <attr name="strokeWidth"/>
+        <!-- View background -->
+        <attr name="android:background"/>
+    </declare-styleable><attr format="color" name="selectedColor"/><declare-styleable name="TitlePageIndicator">
+        <!-- Screen edge padding. -->
+        <attr format="dimension" name="clipPadding"/>
+        <!-- Color of the footer line and indicator. -->
+        <attr format="color" name="footerColor"/>
+        <!-- Height of the footer line. -->
+        <attr format="dimension" name="footerLineHeight"/>
+        <!-- Style of the indicator. Default is triangle. -->
+        <attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr>
+        <!-- Height of the indicator above the footer line. -->
+        <attr format="dimension" name="footerIndicatorHeight"/>
+        <!-- Left and right padding of the underline indicator. -->
+        <attr format="dimension" name="footerIndicatorUnderlinePadding"/>
+        <!-- Padding between the bottom of the title and the footer. -->
+        <attr format="dimension" name="footerPadding"/>
+        <!-- Position of the line. -->
+        <attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr>
+        <!-- Color of the selected title. -->
+        <attr name="selectedColor"/>
+        <!-- Whether or not the selected item is displayed as bold. -->
+        <attr format="boolean" name="selectedBold"/>
+        <!-- Color of regular titles. -->
+        <attr name="android:textColor"/>
+        <!-- Size of title text. -->
+        <attr name="android:textSize"/>
+        <!-- Padding between titles when bumping into each other. -->
+        <attr format="dimension" name="titlePadding"/>
+        <!-- Padding between titles and the top of the View. -->
+        <attr format="dimension" name="topPadding"/>
+        <!-- View background -->
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="UnderlinePageIndicator">
+        <!-- Whether or not the selected indicator fades. -->
+        <attr format="boolean" name="fades"/>
+        <!-- Length of the delay to fade the indicator. -->
+        <attr format="integer" name="fadeDelay"/>
+        <!-- Length of the indicator fade to transparent. -->
+        <attr format="integer" name="fadeLength"/>
+        <!-- Color of the selected line that represents the current page. -->
+        <attr name="selectedColor"/>
+        <!-- View background -->
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="ViewPagerIndicator">
+        <!-- Style of the circle indicator. -->
+        <attr format="reference" name="vpiCirclePageIndicatorStyle"/>
+        <!-- Style of the icon indicator's views. -->
+        <attr format="reference" name="vpiIconPageIndicatorStyle"/>
+        <!-- Style of the line indicator. -->
+        <attr format="reference" name="vpiLinePageIndicatorStyle"/>
+        <!-- Style of the title indicator. -->
+        <attr format="reference" name="vpiTitlePageIndicatorStyle"/>
+        <!-- Style of the tab indicator's tabs. -->
+        <attr format="reference" name="vpiTabPageIndicatorStyle"/>
+        <!-- Style of the underline indicator. -->
+        <attr format="reference" name="vpiUnderlinePageIndicatorStyle"/>
+    </declare-styleable><attr format="color" name="unselectedColor"/><attr format="dimension" name="strokeWidth"/><declare-styleable name="LinePageIndicator">
+        <!-- Whether or not the indicators should be centered. -->
+        <attr name="centered"/>
+        <!-- Color of the unselected lines that represent the pages. -->
+        <attr name="unselectedColor"/>
+        <!-- Color of the selected line that represents the current page. -->
+        <attr name="selectedColor"/>
+        <!-- Width of each indicator line. -->
+        <attr format="dimension" name="lineWidth"/>
+        <!-- Width of each indicator line's stroke. -->
+        <attr name="strokeWidth"/>
+        <!-- Width of the gap between each indicator line. -->
+        <attr format="dimension" name="gapWidth"/>
+        <!-- View background -->
+        <attr name="android:background"/>
+    </declare-styleable></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values\vpi__defaults.xml" qualifiers=""><dimen name="default_circle_indicator_radius">3dp</dimen><color name="default_circle_indicator_fill_color">#FFFFFFFF</color><color name="default_circle_indicator_page_color">#00000000</color><bool name="default_circle_indicator_snap">false</bool><bool name="default_title_indicator_selected_bold">true</bool><color name="default_underline_indicator_selected_color">#FF33B5E5</color><dimen name="default_title_indicator_clip_padding">4dp</dimen><integer name="default_underline_indicator_fade_length">400</integer><dimen name="default_line_indicator_line_width">12dp</dimen><dimen name="default_title_indicator_footer_indicator_height">4dp</dimen><color name="default_circle_indicator_stroke_color">#FFDDDDDD</color><color name="default_line_indicator_selected_color">#FF33B5E5</color><integer name="default_underline_indicator_fade_delay">300</integer><integer name="default_circle_indicator_orientation">0</integer><bool name="default_circle_indicator_centered">true</bool><integer name="default_title_indicator_footer_indicator_style">2</integer><dimen name="default_title_indicator_footer_padding">7dp</dimen><dimen name="default_title_indicator_top_padding">7dp</dimen><color name="default_title_indicator_text_color">#BBFFFFFF</color><dimen name="default_title_indicator_title_padding">5dp</dimen><dimen name="default_title_indicator_text_size">15dp</dimen><bool name="default_underline_indicator_fades">true</bool><dimen name="default_circle_indicator_stroke_width">1dp</dimen><dimen name="default_line_indicator_gap_width">4dp</dimen><color name="default_line_indicator_unselected_color">#FFBBBBBB</color><integer name="default_title_indicator_line_position">0</integer><dimen name="default_line_indicator_stroke_width">1dp</dimen><dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen><color name="default_title_indicator_selected_color">#FFFFFFFF</color><dimen name="default_title_indicator_footer_line_height">2dp</dimen><bool name="default_line_indicator_centered">true</bool><color name="default_title_indicator_footer_color">#FF33B5E5</color></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values\vpi__styles.xml" qualifiers=""><style name="Widget.IconPageIndicator" parent="Widget">
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+    </style><style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style><style name="Widget">
+    </style><style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/vpi__tab_indicator</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:maxLines">1</item>
+    </style><style name="TextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/vpi__dark_theme</item>
+    </style></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values\zxing_color.xml" qualifiers=""><color name="share_text">#ff000000</color><color name="viewfinder_frame">#ff000000</color><color name="possible_result_points">#c0ffff00</color><color name="sbc_header_text">#ff808080</color><color name="result_view">#b0000000</color><color name="share_view">#ffffffff</color><color name="result_text">#ffffffff</color><color name="encode_view">#ffffffff</color><color name="help_view">#ff404040</color><color name="result_image_border">#ffffffff</color><color name="sbc_layout_view">#ffffffff</color><color name="contents_text">#ff000000</color><color name="sbc_list_item">#fffff0e0</color><color name="status_text">#ffffffff</color><color name="header">#58567D</color><color name="sbc_snippet_text">#ff4b4b4b</color><color name="viewfinder_mask">#60000000</color><color name="result_minor_text">#ffc0c0c0</color><color name="sbc_page_number_text">#ff000000</color><color name="bg_color">#EDEDED</color><color name="help_button_view">#ffcccccc</color><color name="viewfinder_laser">#ffff0000</color><color name="status_view">#50000000</color><color name="sbc_header_view">#ffffffff</color><color name="result_points">#c000ff00</color><color name="grgray">#686868</color></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values\zxing_ids.xml" qualifiers=""><item name="search_book_contents_succeeded" type="id"/><item name="restart_preview" type="id"/><item name="search_book_contents_failed" type="id"/><item name="decode_succeeded" type="id"/><item name="auto_focus" type="id"/><item name="launch_product_query" type="id"/><item name="quit" type="id"/><item name="encode_succeeded" type="id"/><item name="decode" type="id"/><item name="return_scan_result" type="id"/><item name="encode_failed" type="id"/><item name="decode_failed" type="id"/></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="F:\studiospace\MyApplication\myFrame\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="F:\studiospace\MyApplication\myFrame\build\generated\res\rs\debug"/><source path="F:\studiospace\MyApplication\myFrame\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug"><source path="F:\studiospace\MyApplication\myFrame\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable><declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable><declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable><declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable><declare-styleable name="SlidingMenu"><attr name="mode"><enum name="left" value="0"/><enum name="right" value="1"/></attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr name="touchModeBehind"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="fadeEnabled"/><attr format="float" name="fadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable><declare-styleable name="RoundAngleImageView"><attr format="dimension" name="roundWidth"/><attr format="dimension" name="roundHeight"/></declare-styleable><declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle"><enum name="none" value="0"/><enum name="triangle" value="1"/><enum name="underline" value="2"/></attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition"><enum name="bottom" value="0"/><enum name="top" value="1"/></attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable><declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable></configuration></mergedItems></merger>

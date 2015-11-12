@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:background="@drawable/shape_bg_progress_dialog"
+    android:gravity="center"
+    android:padding="12.0dip" >
+
+    <ImageView
+        android:id="@+id/refresh_big_box"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@null"
+       />
+
+    <ImageView
+        android:id="@+id/refresh_big_round"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@null"
+        android:src="@drawable/refresh_big_round" />
+
+</RelativeLayout>
